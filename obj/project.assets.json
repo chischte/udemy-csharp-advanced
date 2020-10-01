@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\michi\\source\\repos\\udemy-csharp-advanced\\udemy-csharp-advanced.csproj",
+      "projectUniqueName": "C:\\git\\udemy-csharp-advanced\\udemy-csharp-advanced.csproj",
       "projectName": "udemy-csharp-advanced",
-      "projectPath": "C:\\Users\\michi\\source\\repos\\udemy-csharp-advanced\\udemy-csharp-advanced.csproj",
+      "projectPath": "C:\\git\\udemy-csharp-advanced\\udemy-csharp-advanced.csproj",
       "packagesPath": "C:\\Users\\michi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\michi\\source\\repos\\udemy-csharp-advanced\\obj\\",
+      "outputPath": "C:\\git\\udemy-csharp-advanced\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
