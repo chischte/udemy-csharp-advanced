@@ -6,7 +6,13 @@ namespace udemy_csharp_advanced
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine(Square(4));
+
+        }
+
+        static int Square(int number )
+        {
+                        return number * number;
         }
     }
 }
