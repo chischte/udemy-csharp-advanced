@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git\\udemy-csharp-advanced\\udemy-csharp-advanced.csproj": {}
+    "C:\\git\\udemy-csharp-advanced\\Generics\\Generics.csproj": {}
   },
   "projects": {
-    "C:\\git\\udemy-csharp-advanced\\udemy-csharp-advanced.csproj": {
+    "C:\\git\\udemy-csharp-advanced\\Generics\\Generics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\udemy-csharp-advanced\\udemy-csharp-advanced.csproj",
-        "projectName": "udemy-csharp-advanced",
-        "projectPath": "C:\\git\\udemy-csharp-advanced\\udemy-csharp-advanced.csproj",
+        "projectUniqueName": "C:\\git\\udemy-csharp-advanced\\Generics\\Generics.csproj",
+        "projectName": "Generics",
+        "projectPath": "C:\\git\\udemy-csharp-advanced\\Generics\\Generics.csproj",
         "packagesPath": "C:\\Users\\michi\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\udemy-csharp-advanced\\obj\\",
+        "outputPath": "C:\\git\\udemy-csharp-advanced\\Generics\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
