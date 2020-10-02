@@ -1,0 +1,13 @@
+C:\git\udemy-csharp-advanced\LambdaExpressions\bin\Debug\netcoreapp3.1\LambdaExpressions.exe
+C:\git\udemy-csharp-advanced\LambdaExpressions\bin\Debug\netcoreapp3.1\LambdaExpressions.deps.json
+C:\git\udemy-csharp-advanced\LambdaExpressions\bin\Debug\netcoreapp3.1\LambdaExpressions.runtimeconfig.json
+C:\git\udemy-csharp-advanced\LambdaExpressions\bin\Debug\netcoreapp3.1\LambdaExpressions.runtimeconfig.dev.json
+C:\git\udemy-csharp-advanced\LambdaExpressions\bin\Debug\netcoreapp3.1\LambdaExpressions.dll
+C:\git\udemy-csharp-advanced\LambdaExpressions\bin\Debug\netcoreapp3.1\LambdaExpressions.pdb
+C:\git\udemy-csharp-advanced\LambdaExpressions\obj\Debug\netcoreapp3.1\LambdaExpressions.csprojAssemblyReference.cache
+C:\git\udemy-csharp-advanced\LambdaExpressions\obj\Debug\netcoreapp3.1\LambdaExpressions.AssemblyInfoInputs.cache
+C:\git\udemy-csharp-advanced\LambdaExpressions\obj\Debug\netcoreapp3.1\LambdaExpressions.AssemblyInfo.cs
+C:\git\udemy-csharp-advanced\LambdaExpressions\obj\Debug\netcoreapp3.1\LambdaExpressions.csproj.CoreCompileInputs.cache
+C:\git\udemy-csharp-advanced\LambdaExpressions\obj\Debug\netcoreapp3.1\LambdaExpressions.dll
+C:\git\udemy-csharp-advanced\LambdaExpressions\obj\Debug\netcoreapp3.1\LambdaExpressions.pdb
+C:\git\udemy-csharp-advanced\LambdaExpressions\obj\Debug\netcoreapp3.1\LambdaExpressions.genruntimeconfig.cache

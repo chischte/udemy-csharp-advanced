@@ -11,7 +11,7 @@ namespace Delegates
             var filters = new PhotoFilters();
             PhotoProcessor.PhotoFilterHandler filterHandler = filters.ApplyBrightness;
             processor.Process("photo.jpg", filterHandler);
-                      
+
 
         }
 

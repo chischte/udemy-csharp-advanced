@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{A6F2310C-A388-46A7-9C75-03BA452EFA0D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics", "Generics\Generics.csproj", "{A6F2310C-A388-46A7-9C75-03BA452EFA0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates", "Delegates\Delegates.csproj", "{078D2CD1-4822-46CB-B8F7-58EE2CE3E481}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegates", "Delegates\Delegates.csproj", "{078D2CD1-4822-46CB-B8F7-58EE2CE3E481}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaExpressions", "LambdaExpressions\LambdaExpressions.csproj", "{CBBA5075-EDC9-4102-8B29-B6EDDD529D07}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{078D2CD1-4822-46CB-B8F7-58EE2CE3E481}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{078D2CD1-4822-46CB-B8F7-58EE2CE3E481}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{078D2CD1-4822-46CB-B8F7-58EE2CE3E481}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBBA5075-EDC9-4102-8B29-B6EDDD529D07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBBA5075-EDC9-4102-8B29-B6EDDD529D07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBBA5075-EDC9-4102-8B29-B6EDDD529D07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBBA5075-EDC9-4102-8B29-B6EDDD529D07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
