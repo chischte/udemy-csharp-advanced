@@ -4,8 +4,10 @@ using System.Text;
 
 namespace udemy_csharp_advanced_generics
 {
-    public class Book : Product
+    public class Product
     {
-        public string Isbn { get; set; }
+        public string Title { get; set; }
+        public float Price { get; set; }
     }
 }
+

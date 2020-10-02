@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C6Oylp11JJ6Jd331ya5q2qQrnq54rTvl4VbanwnhrZeSa3LT76COGByD3RXGRhoyaYroSzeQIJnWO5+1quYhpg==",
+  "dgSpecHash": "AmAx2FjNTmvW+Oth5VX5B8tCGbD/iVLTYx26qGW2RLdxVshPaczvdCg7zLI5+8660Hw2vamE0imTWrV/AhhcFA==",
   "success": true,
-  "projectFilePath": "C:\\git\\udemy-csharp-advanced\\udemy-csharp-advanced.csproj",
+  "projectFilePath": "C:\\git\\udemy-csharp-advanced\\udemy-csharp-advanced-generics.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace udemy_csharp_advanced
+namespace udemy_csharp_advanced_generics
 {
     public class BookList
     {
@@ -20,6 +20,7 @@ namespace udemy_csharp_advanced
     {
         public void Add(T value)
         {
+            Console.WriteLine("HAUDI");
 
         }
 
