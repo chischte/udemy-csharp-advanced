@@ -1,0 +1,12 @@
+C:\git\udemy-csharp-advanced\Linq\bin\Debug\netcoreapp3.1\Linq.exe
+C:\git\udemy-csharp-advanced\Linq\bin\Debug\netcoreapp3.1\Linq.deps.json
+C:\git\udemy-csharp-advanced\Linq\bin\Debug\netcoreapp3.1\Linq.runtimeconfig.json
+C:\git\udemy-csharp-advanced\Linq\bin\Debug\netcoreapp3.1\Linq.runtimeconfig.dev.json
+C:\git\udemy-csharp-advanced\Linq\bin\Debug\netcoreapp3.1\Linq.dll
+C:\git\udemy-csharp-advanced\Linq\bin\Debug\netcoreapp3.1\Linq.pdb
+C:\git\udemy-csharp-advanced\Linq\obj\Debug\netcoreapp3.1\Linq.AssemblyInfoInputs.cache
+C:\git\udemy-csharp-advanced\Linq\obj\Debug\netcoreapp3.1\Linq.AssemblyInfo.cs
+C:\git\udemy-csharp-advanced\Linq\obj\Debug\netcoreapp3.1\Linq.csproj.CoreCompileInputs.cache
+C:\git\udemy-csharp-advanced\Linq\obj\Debug\netcoreapp3.1\Linq.dll
+C:\git\udemy-csharp-advanced\Linq\obj\Debug\netcoreapp3.1\Linq.pdb
+C:\git\udemy-csharp-advanced\Linq\obj\Debug\netcoreapp3.1\Linq.genruntimeconfig.cache
