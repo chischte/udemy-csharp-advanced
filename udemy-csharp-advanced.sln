@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics", "Generics\Generi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegates", "Delegates\Delegates.csproj", "{078D2CD1-4822-46CB-B8F7-58EE2CE3E481}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaExpressions", "LambdaExpressions\LambdaExpressions.csproj", "{CBBA5075-EDC9-4102-8B29-B6EDDD529D07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LambdaExpressions", "LambdaExpressions\LambdaExpressions.csproj", "{CBBA5075-EDC9-4102-8B29-B6EDDD529D07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq", "Linq\Linq.csproj", "{B5BA65E0-2C88-428E-8CAF-F9C900E21B33}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linq", "Linq\Linq.csproj", "{B5BA65E0-2C88-428E-8CAF-F9C900E21B33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableTypes", "NullableTypes\NullableTypes.csproj", "{075A7569-7B27-4D8D-B42D-593E04730CEE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{B5BA65E0-2C88-428E-8CAF-F9C900E21B33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5BA65E0-2C88-428E-8CAF-F9C900E21B33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5BA65E0-2C88-428E-8CAF-F9C900E21B33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{075A7569-7B27-4D8D-B42D-593E04730CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{075A7569-7B27-4D8D-B42D-593E04730CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{075A7569-7B27-4D8D-B42D-593E04730CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{075A7569-7B27-4D8D-B42D-593E04730CEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
