@@ -9,7 +9,9 @@ namespace Delegates
         {
             var processor = new PhotoProcessor();
             var filters = new PhotoFilters();
+            // Erzeugen des Handlers
             PhotoProcessor.PhotoFilterHandler filterHandler = filters.ApplyBrightness;
+            // Übegeben des Handlers
             processor.Process("photo.jpg", filterHandler);
 
 
