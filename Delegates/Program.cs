@@ -10,16 +10,17 @@ namespace Delegates
             var processor = new PhotoProcessor();
             var filters = new PhotoFilters();
             // Erzeugen des Handlers
-            PhotoProcessor.PhotoFilterHandler filterHandler = filters.ApplyBrightness;
-            // Übegeben des Handlers
+            Action<Photo> filterHandler = filters.ApplyBrightness;
+            filterHandler += filters.ApplyContrast;
+            filterHandler += RemoveRedEyeFilter;
+
+            // Übergeben des Handlers
             processor.Process("photo.jpg", filterHandler);
-
-
         }
 
         static void RemoveRedEyeFilter(Photo photo)
         {
-            Console.WriteLine("Apply RemoveRedEye");
+            Console.WriteLine("Remove red eyes");
         }
 
 
