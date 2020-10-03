@@ -1,6 +1,5 @@
 
 *.cache
-
 */obj/
-
 */bin/
+.vs/
