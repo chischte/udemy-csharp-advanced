@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace udemy_csharp_advanced_generics
+namespace Generics
 {
     public class Book : Product
     {
