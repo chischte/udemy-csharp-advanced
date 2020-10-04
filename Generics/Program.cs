@@ -29,11 +29,12 @@ namespace Generics
             var okFloat = new Nullable<float>(3.14159265f);
             Console.WriteLine("Has Value ? " + okFloat.HasValue);
             Console.WriteLine("Value : " + okFloat.GetValueOrDefault());
-            
-            // Why does it not work with a string ?
+
 
             // Use the class with a Sting:
-            //var okString = new String?("ok");
+            // String does not work when T : hast to be value type (Nullable.cs)
+            // String is a reference type
+            //var okString = new Nullable<string>("ok");
             //Console.WriteLine("Has Value ? " + okString.HasValue);
             //Console.WriteLine("Value : " + okString.GetValueOrDefault());
 
