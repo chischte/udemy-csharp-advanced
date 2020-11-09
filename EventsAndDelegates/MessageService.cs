@@ -4,9 +4,9 @@ namespace EventsAndDelegates
 {
     public class MessageService
     {
-        public void OnVideoEncoded(object source, EventArgs args)
+        public void OnVideoEncoded(object source, EventArgs e)
         {
-            Console.WriteLine("Message Service started");
+            Console.WriteLine("Message Service started ");
         }
     }
 }

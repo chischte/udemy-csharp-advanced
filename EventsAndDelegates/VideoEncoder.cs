@@ -5,18 +5,15 @@ using System.Threading;
 
 namespace EventsAndDelegates
 {
-    class VideoEncoder
+   public class VideoEncoder
     {
-        // 1. Define a delgate:
-        public delegate void VideoEncodedEventHandler(object source, EventArgs args);
-        
-        // 2. Define an event based on that delegate:
-        public event VideoEncodedEventHandler VideoEncoded;
+        // (1 + 2) Define an event based on EventHandler delegate:
+        public event EventHandler VideoEncoded;
 
-        // 3. Raise the event
+        // Raise the event
         public void Encode(Video video)
         {
-            Console.WriteLine("Encoding Video...{0}", video.Title);
+            Console.WriteLine("Encoding Video...");
             Thread.Sleep(2000);
 
             OnVideoEncoded();
